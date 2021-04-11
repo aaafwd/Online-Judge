@@ -1,2 +1,7 @@
 # Online-Judge
-Solutions to "Online Judge" problems
+Solutions to [Online Judge](https://onlinejudge.org) problems.
+
+**WARNING: Please DO NOT SUBMIT these solutions to Online Judge!**
+<br>Some of the solutions were (overly) optimized and you **RISK** **_undeservedly_** topping the rankings!
+
+Here is [the statistics page](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=12149) for these solutions.
