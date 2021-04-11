@@ -1,4 +1,3 @@
-# Online-Judge
 **WARNING: Please DO NOT SUBMIT these solutions to Online Judge!**
 <br>Some of the solutions were (overly) optimized and you **RISK** **_undeservedly_** topping the rankings!
 
